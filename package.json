@@ -1,0 +1,19 @@
+{
+  "name": "bluebird-collection-test",
+  "version": "1.0.0",
+  "description": "Bluebird collection API test",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "promise",
+    "bluebird"
+  ],
+  "author": "Teppei Sato <teppeis@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "bluebird": "^3.0.5",
+    "mocha": "^2.3.3"
+  }
+}
